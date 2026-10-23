@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vatsal 👋
 
-<!--
-**vatsaltrivedi-code/vatsaltrivedi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student developer building simple, useful tools.
 
-Here are some ideas to get you started:
+## 🥣 Macrava: hit your protein on any budget
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Try it:** https://macrava.pages.dev
+
+A free meal planner for hostel and PG students in India. Tell it what you eat and how much you can spend each day, and it finds the cheapest way to hit your protein, calories, carbs and fat, using real prices from Blinkit, Zepto and Licious and counting your mess meals.
+
+- Plans in seconds, no account needed
+- Log what's on your mess plate to track real macros
+- Installs like an app on Android, iPhone and desktop
